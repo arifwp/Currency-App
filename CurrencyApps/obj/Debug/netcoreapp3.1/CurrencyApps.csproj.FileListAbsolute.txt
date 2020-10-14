@@ -1,0 +1,17 @@
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\CurrencyApps.csprojAssemblyReference.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\App.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\CurrencyApps_MarkupCompile.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\CurrencyApps_MarkupCompile.lref
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\bin\Debug\netcoreapp3.1\CurrencyApps.exe
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\bin\Debug\netcoreapp3.1\CurrencyApps.deps.json
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\bin\Debug\netcoreapp3.1\CurrencyApps.runtimeconfig.json
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\bin\Debug\netcoreapp3.1\CurrencyApps.runtimeconfig.dev.json
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\bin\Debug\netcoreapp3.1\CurrencyApps.dll
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\bin\Debug\netcoreapp3.1\CurrencyApps.pdb
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\CurrencyApps.g.resources
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\CurrencyApps.AssemblyInfoInputs.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\CurrencyApps.AssemblyInfo.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\CurrencyApps.dll
+D:\TUGAS\Semester 3\Pemrograman Lanjut\CurrencyApps\CurrencyApps\obj\Debug\netcoreapp3.1\CurrencyApps.pdb
